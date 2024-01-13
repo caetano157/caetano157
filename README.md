@@ -1,7 +1,3 @@
-<div align="center">
-  <a href="https://github.com/caetano157">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caetano157&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img align="center" alt="uipath" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/uipath-3.svg" />
